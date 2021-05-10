@@ -22,4 +22,8 @@ public class LoggerManager {
     private LoggerManager() {
         super();
     }
+    
+    public int getTurns(){
+        return -1;
+    }
 }
