@@ -24,6 +24,6 @@ public class BhoNonSo {
     }
     
     public void boh(){
-        
+        System.out.println("Daje");
     }
 }
