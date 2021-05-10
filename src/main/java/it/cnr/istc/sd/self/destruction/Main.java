@@ -12,7 +12,7 @@ package it.cnr.istc.sd.self.destruction;
 public class Main {
     
     public static void main(String[] args) {
-        System.out.println("Ciao");
+        System.out.println("HAI FATTO IL DIAGRAMMA A BLOCCHI?");
     }
     
 }
